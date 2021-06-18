@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VSCode\\Portfolio\\MvcMovie\\MvcMovie.csproj": {}
+    "C:\\Users\\Probel\\Desktop\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\VSCode\\Portfolio\\MvcMovie\\MvcMovie.csproj": {
+    "C:\\Users\\Probel\\Desktop\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VSCode\\Portfolio\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "C:\\Users\\Probel\\Desktop\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\VSCode\\Portfolio\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "C:\\Users\\Probel\\Desktop\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\Probel\\.nuget\\packages\\",
-        "outputPath": "C:\\VSCode\\Portfolio\\MvcMovie\\obj\\",
+        "outputPath": "C:\\Users\\Probel\\Desktop\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

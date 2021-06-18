@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0/L9pCJVCrD0SQZR57teBek0QiJ8QAayrakSRZUHyat06DMkJVmdZWzRy+4iSaaBHOQhUx10es37ljRUgkCqHQ==",
+  "dgSpecHash": "+j5UVS2s15m9op3Tt+i6xPFyXCd4j7440QzTC4FWtkj6QMtlJ62XAbzB7FzupINJ3tJJJb4Z9JBuSLDrzg6FeQ==",
   "success": true,
-  "projectFilePath": "C:\\VSCode\\Portfolio\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\Probel\\Desktop\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Probel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Probel\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.7\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.7.nupkg.sha512",
